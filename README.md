@@ -22,8 +22,8 @@ A simple auto install Mikrotik's Winbox in GNU/Linux
 Copy and paste this commands to your terminal:
 
 1. `cd /tmp`
-2. `git clone https://github.com/kingmikomv/wbox.git`
-3. `cd wbox`
+2. `git clone https://github.com/kingmikomv/wbxinstall.git`
+3. `cd wbxinstall`
 4. `sudo ./setup install` **OR** `sudo bash setup install`
 
 ## Firewall setting:
